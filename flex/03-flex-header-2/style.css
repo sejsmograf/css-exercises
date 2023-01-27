@@ -46,3 +46,28 @@ a {
 ul {
   list-style-type: none;
 }
+
+/* added by me essa */
+
+.header{
+  padding:8px;
+  display:flex;
+  justify-content: space-between;
+}
+
+.left{
+  margin-right:auto;
+  display: flex;
+  align-items: center;
+}
+
+.right{
+  display: flex;
+  align-items: center;
+  gap:20px;
+}
+
+ul{
+  gap:20px;
+  display:flex;
+}

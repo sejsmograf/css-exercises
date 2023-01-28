@@ -24,3 +24,22 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* added by me essa */
+
+body{
+  text-align: center;
+}
+.title{
+  margin-bottom:50px;
+}
+
+.main{
+  display:flex;
+  justify-content: center; 
+  gap:52px;
+}
+
+.content.wrapper{
+  width:200px;
+}
